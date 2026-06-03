@@ -6,29 +6,27 @@
 ---
 
 <table align="center" width="100%">
-  <tr>
-    <td valign="top" width="55%">
-      <h3>💫 About Me</h3>
-      <p>I am a developer focused on engineering intelligent, secure, and highly scalable software. I bridge the gap between AI research and production systems, building end-to-end solutions from system-level network filters to full-stack cloud applications.</p>
-      
-      <ul>
-        <li>🚀 <strong>Current Focus:</strong> Developing multi-threaded AI inference pipelines, real-time security enforcers, and cybersecurity architectures.</li>
-        <li>🏆 <strong>Hackathons:</strong> Winner of multiple hackathons, building high-impact AI products and security tooling.</li>
-        <li>👯 <strong>Collaboration:</strong> Open to partnering on novel AI/ML systems, cybersecurity projects, open-source software, and startup ventures.</li>
-      </ul>
-      
-      <p align="left">
-        <a href="https://linkedin.com/in/mohitUpraity"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
-        <a href="https://instagram.com/mohit.upraity"><img src="https://img.shields.io/badge/Instagram-1a1b26?style=flat-square&logo=Instagram&logoColor=f7768e" alt="Instagram" /></a>
-        <a href="mailto:mohitupraity123@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=flat-square&logo=gmail&logoColor=ff5f56" alt="Email" /></a>
-      </p>
-    </td>
-    <td valign="top" width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohitUpraity&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
-      <br/><br/>
-      <img src="https://streak-stats.demolab.com/?user=mohitUpraity&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="55%">
+<h3>💫 About Me</h3>
+<p>I am a developer focused on engineering intelligent, secure, and highly scalable software. I bridge the gap between AI research and production systems, building end-to-end solutions from system-level network filters to full-stack cloud applications.</p>
+<ul>
+<li>🚀 <strong>Current Focus:</strong> Developing multi-threaded AI inference pipelines, real-time security enforcers, and cybersecurity architectures.</li>
+<li>🏆 <strong>Hackathons:</strong> Winner of multiple hackathons, building high-impact AI products and security tooling.</li>
+<li>👯 <strong>Collaboration:</strong> Open to partnering on novel AI/ML systems, cybersecurity projects, open-source software, and startup ventures.</li>
+</ul>
+<p align="left">
+<a href="https://linkedin.com/in/mohitUpraity"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
+<a href="https://instagram.com/mohit.upraity"><img src="https://img.shields.io/badge/Instagram-1a1b26?style=flat-square&logo=Instagram&logoColor=f7768e" alt="Instagram" /></a>
+<a href="mailto:mohitupraity123@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=flat-square&logo=gmail&logoColor=ff5f56" alt="Email" /></a>
+</p>
+</td>
+<td valign="top" width="45%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohitUpraity&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=mohitUpraity&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
+</td>
+</tr>
 </table>
 
 ---
