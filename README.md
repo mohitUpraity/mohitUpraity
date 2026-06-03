@@ -22,7 +22,7 @@
 </p>
 </td>
 <td valign="top" width="45%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohitUpraity&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=mohitUpraity&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
 <br/><br/>
 <img src="https://streak-stats.demolab.com/?user=mohitUpraity&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
 </td>
@@ -88,11 +88,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitUpraity&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=mohitUpraity&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitUpraity&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitUpraity&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mohitUpraity&limit=5&theme=tokyonight" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=mohitUpraity&limit=5&theme=dark" alt="Top Contributed Repos" />
 </p>
 
 ---
